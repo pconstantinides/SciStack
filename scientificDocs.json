@@ -1,0 +1,524 @@
+[
+    {
+        "doi": "2209.04915v1",
+        "title": "Variational Quantum Algorithms for Computational Fluid Dynamics",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "1704.05018v2",
+        "title": "Hardware-efficient Variational Quantum Eigensolver for Small Molecules and uantum Magnets",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "doi.org/10.3390/magnetochemistry7080117",
+        "title": "Simulating Static and Dynamic Properties of Magnetic Molecules with Prototype Quantum Computers",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "2009.09208v1",
+        "title": "The quantum Ising chain for beginners",
+        "class": "paper",
+        "note": "Suggested by Angelakis"
+    },
+    {
+        "doi": "2111.05176v3",
+        "title": "The Variational Quantum Eigensolver: a review of methods and best practices",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "106, 214429",
+        "title": "Variational quantum eigensolver for the Heisenberg antiferromagnet on the kagome lattice",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "doi.org/10.1186/s41313-021-00032-6",
+        "title": "VQE method: a short survey and recent developments",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "https://strawberryfields.ai/photonics/concepts/gbs.html",
+        "title": "Gaussian Boson Sampling",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "2206.07214v2",
+        "title": "Continuous-variable quantum approximate optimization on a programmable photonic quantum processor",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "1304.3061v1",
+        "title": "A variational eigenvalue solver on a quantum processor",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "2306.00874v1",
+        "title": "A general-purpose single-photon-based quantum computing platform",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "2101.11390v3",
+        "title": "A compact ion-trap quantum computing demonstrator",
+        "class": "paper",
+        "note": "AQT"
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-024-46402-9",
+        "title": "Quantum many-body simulations on digital quantum computers: State-of-the-art and future challenges",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "2108.04258",
+        "title": "Quantum algorithms for quantum dynamics: A performance study on the spin-boson model",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "10.1103/PhysRevResearch.3.033083",
+        "title": "Hardware-efficient variational quantum algorithms for time evolution",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41534-019-0217-0",
+        "title": "Simulating quantum many-body dynamics on a current digital quantum computer",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-024-46402-9",
+        "title": "Quantum many-body simulations on digital quantum computers: State-of-the-art and future challenges",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41586-022-04940-6",
+        "title": "Practical quantum advantage in quantum simulation",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "doi.org/10.1038/s41586-023-06096-3",
+        "title": "Evidence for the utility of quantum computing before fault tolerance",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "1804.03719v3",
+        "title": "Quantum Algorithm Implementations for Beginners",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "2307.05157v1",
+        "title": "Quantum computing for fluids: where do we stand?",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "2007.01774v2",
+        "title": "Qubit-efficient encoding schemes for binary optimisation problems",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "1903.04511v2",
+        "title": "The First Law of Complexity",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "1701.01107v2",
+        "title": "The Second Law of Quantum Complexity",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "https://arxiv.org/pdf/2301.00942.pdf",
+        "title": "Deep Learning and Computational Physics",
+        "class": "notes",
+        "note": null
+    },
+    {
+        "doi": "https://www.quantamagazine.org/theories-of-everything-mapped-20150803/?sso_success=false",
+        "title": "Theories of Everything, Mapped",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "76, 042319",
+        "title": "Charge-insensitive qubit design derived from the Cooper pair box",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "2005.12667v1",
+        "title": "Circuit Quantum Electrodynamics",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "https://courses.physics.ucsd.edu/2017/Spring/physics142/Lectures/Lecture18/Hjorth-JensenLectures2010.pdf",
+        "title": "Computational Physics",
+        "class": "book",
+        "note": null
+    },
+    {
+        "doi": "https://homes.cs.washington.edu/~oskin/quantum-notes.pdf",
+        "title": "Quantum Computing - Lecture Notes",
+        "class": "notes",
+        "note": null
+    },
+    {
+        "doi": "https://cleve.iqc.uwaterloo.ca/qic710/index.html",
+        "title": "Introduction to Quantum Information Processing",
+        "class": "notes",
+        "note": null
+    },
+    {
+        "doi": "https://cleve.iqc.uwaterloo.ca/course-57/styled-22/index.html",
+        "title": "Entanglement and Nonlocal Effects",
+        "class": "notes",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-019-10988-2",
+        "title": "An adaptive variational algorithm for exact molecular simulations on a quantum computer",
+        "class": "paper",
+        "note": "Adapt VQE"
+    },
+    {
+        "doi": "2405.00781v1",
+        "title": "A Review of Barren Plateaus in Variational Quantum Computing",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "10.1103/RevModPhys.94.015004",
+        "title": "Noisy intermediate-scale quantum algorithms",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "10.1103/RevModPhys.92.015003",
+        "title": "Quantum computational chemistry",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "2012.09265v2",
+        "title": "Variational quantum algorithms",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1103/PRXQuantum.2.020310",
+        "title": "qubit-ADAPT-VQE: An adaptive algorithm for constructing hardware-efficient ansatze on a quantum processor",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.48550/arXiv.2212.04323",
+        "title": "Ans\u00e4tze for Noisy Variational Quantum Eigensolvers",
+        "class": "thesis",
+        "note": "by Mafalda Ramoa"
+    },
+    {
+        "doi": "https://www.physics.purdue.edu/~hisao/book/www/Computational%20Physics%20using%20MATLAB.pdf",
+        "title": "Computational Physics using MATLAB",
+        "class": "book",
+        "note": null
+    },
+    {
+        "doi": "10.13140/RG.2.2.33138.30401/2",
+        "title": "Introduction to Computational Physics",
+        "class": "book",
+        "note": "examples in Julia"
+    },
+    {
+        "doi": "https://public.websites.umich.edu/~mejn/cp/",
+        "title": "Computational Physics",
+        "class": "book",
+        "note": "university of Michigan"
+    },
+    {
+        "doi": "http://dx.doi.org/10.57713/kallipos-946",
+        "title": "\u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03a6\u03c5\u03c3\u03c3\u03b9\u03ba\u03ae",
+        "class": "book",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1201/9780429497926",
+        "title": "Quantum Many-Particle Systems",
+        "class": "book",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1007/3-540-29281-0",
+        "title": "The Physics of Atoms and Quanta",
+        "class": "book",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1017/9781108587280",
+        "title": "Modern Quantum Mechanics",
+        "class": "book",
+        "note": null
+    },
+    {
+        "doi": "https://boulderschool.yale.edu/sites/default/files/files/Girvin_CQED_LES_HOUCHES.pdf",
+        "title": "Circuit QED: Superconducting Qubits Coupled to Microwave Photons",
+        "class": "notes",
+        "note": "S. Girvin from Yale"
+    },
+    {
+        "doi": "https://www.routledge.com/Quantum-Computing-Devices-Principles-Designs-and-Analysis/Chen-Church-Englert-Henkel-Rohwedder-Scully-Zubairy/p/book/9780367390372",
+        "title": "Quantum Computing Devices: Principles, Designs, and Analysis",
+        "class": "book",
+        "note": "Suggested by Angelakis"
+    },
+    {
+        "doi": "https://cdn.oujdalibrary.com/books/997/997-quantum-computing-explained-(www.tawcer.com).pdf",
+        "title": "Quantum Computing Explained",
+        "class": "book",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1017/CBO9780511976667",
+        "title": "Quantum Computation and Quantum Information",
+        "class": "book",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1007/978-3-319-52025-4",
+        "title": "Quantum Simulations with Photons and Polaritons",
+        "class": "book",
+        "note": "by Angelakis"
+    },
+    {
+        "doi": "https://blog.aku.edu.tr/ismailkoyuncu/files/2017/04/02_ebook.pdf",
+        "title": "FPGA Prototyping by VHDL Examples",
+        "class": "book",
+        "note": null
+    },
+    {
+        "doi": "2401.16317v2",
+        "title": "Assessing the Benefits and Risks of Quantum Computers",
+        "class": "paper",
+        "note": "Suggested by Angelakis"
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41467-019-10988-2",
+        "title": "An adaptive variational algorithm for exact molecular simulations on a quantum computer",
+        "class": "paper",
+        "note": "seminal ADAPT-VQE paper"
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41534-023-00681-0",
+        "title": "Adaptive, problem-tailored variational quantum eigensolver mitigates rough parameter landscapes and barren plateaus",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "https://doi.org/10.1038/s42005-021-00730-0 | www.nature.com/commsphys",
+        "title": "Qubit-excitation-based adaptive variational quantum eigensolver",
+        "class": "paper",
+        "note": "Cambridge follow up work on ADAPT VQE"
+    },
+    {
+        "doi": "10.1103/PRXQuantum.2.020310",
+        "title": "Qubit-ADAPT-VQE: An Adaptive Algorithm for Constructing Hardware-Efficient Ans\u00e4tze on a Quantum Processor",
+        "class": "paper",
+        "note": null
+    },
+    {
+        "doi": "arXiv:2407.08696v1",
+        "title": "Reducing the Resources Required by ADAPT-VQE Using Coupled Exchange Operators and Improved Subroutines",
+        "class": "paper",
+        "note": "efficient operation pool for ADAPT VQE"
+    },
+    {
+        "doi": "arXiv:2306.03227v2",
+        "title": "How to really measure operator gradients in ADAPT-VQE",
+        "class": "paper",
+        "note": "efficient gradient measurement for ADAPT VQE"
+    },
+    {
+        "doi": "10.1103/PhysRevResearch.6.013254",
+        "title": "TETRIS-ADAPT-VQE: An adaptive algorithm that yields shallower, denser circuit Ans\u00e4tze",
+        "class": "paper",
+        "note": "TETRIS-ADAPT-VQE for denser, shallower ansatz"
+    },
+    {
+        "doi": "arXiv:2401.05172v1",
+        "title": "Reducing Measurement Costs by Recycling the Hessian in Adaptive Variational Quantum Algorithms",
+        "class": "paper",
+        "note": "Hessian recycling in ADAPT-VQE"
+    },
+    {
+        "doi": "10.1103/PhysRevResearch.6.L012030",
+        "title": "Scaling adaptive quantum simulation algorithms via operator pool tiling",
+        "class": "paper",
+        "note": "ADAPT-VQE for lattice models"
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41534-021-00493-0",
+        "title": "Gate-free state preparation for fast variational quantum eigensolver simulations",
+        "class": "paper",
+        "note": "CONTROL-VQE a pulse level ADAPT"
+    },
+    {
+        "doi": "arXiv:2106.06296v3",
+        "title": "Molecular excited state calculations with the QEB-ADAPT-VQE",
+        "class": "paper",
+        "note": "excitation energy VQE"
+    },
+    {
+        "doi": "10.1103/PhysRevX.8.011021",
+        "title": "Computation of Molecular Spectra on a Quantum Processor with an Error-Resilient Algorithm",
+        "class": "paper",
+        "note": "excitation energy VQE"
+    },
+    {
+        "doi": "https://doi.org/10.22331/q-2019-07-01-156",
+        "title": "Variational Quantum Computation of Excited States",
+        "class": "paper",
+        "note": "excitation energy VQE"
+    },
+    {
+        "doi": "10.1039/d2sc05371c",
+        "title": "Quantum self-consistent equation-of-motion method for computing molecular excitation energies, ionization potentials, and electron affinities on a quantum computer",
+        "class": "paper",
+        "note": "excitation energy VQE"
+    },
+    {
+        "title": "Towards experimental classical verification of quantum computation",
+        "doi": "10.1088/2058-9565/ad2986",
+        "class": "paper",
+        "note": "quantum advantage verification"
+    },
+    {
+        "title": "Verifiable measurement-based quantum random sampling with trapped ions",
+        "doi": "https://assets-eu.researchsquare.com/files/rs-3936332/v1_covered_94f6cdfb-21bf-495d-8191-cc399219f0cc.pdf?c=1709702176",
+        "class": "paper",
+        "note": "quantum advantage verification"
+    },
+    {
+        "title": "Overcoming leakage in scalable quantum error correction",
+        "doi": "arXiv:2211.04728v1",
+        "class": "paper",
+        "note": "quantum leakage"
+    },
+    {
+        "title": "Surface codes: Towards practical large-scale quantum computation",
+        "doi": "https://arxiv.org/abs/1208.0928",
+        "class": "paper",
+        "note": "recomended by Elinas"
+    },
+    {
+        "title": "The Jaynes-Cummings model and its descendants",
+        "doi": "arXiv:2202.00330v4",
+        "class": "paper",
+        "note": ""
+    },
+    {
+        "title": "Distributed quantum computing across an optical network link",
+        "doi": "https://doi.org/10.1038/s41586-024-08404-x",
+        "class": "paper",
+        "note": "Distributed Quantum Computing"
+    },
+    {
+        "title": "Optimal Hamiltonian Simulation by Quantum Signal Processing",
+        "doi": "10.1103/PhysRevLett.118.010501",
+        "class": "paper",
+        "note": "fault tolerant simulation"
+    },
+    {
+        "title": "Resource-Optimized Fermionic Local-Hamiltonian Simulation on a Quantum Computer for Quantum Chemistry",
+        "doi": "arXiv:2004.04151v3",
+        "class": "paper",
+        "note": "fermionic simulation with perturbation"
+    },
+    {
+        "title": "Quantum Simulators: Architectures and Opportunities",
+        "doi": "10.1103/PRXQuantum.2.017003",
+        "class": "paper",
+        "note": "Simulation review"
+    },
+    {
+        "title": "Simulation of electronic structure Hamiltonians using quantum computers",
+        "doi": "10.1080/00268976.2011.552441",
+        "class": "paper",
+        "note": ""
+    },
+    {
+        "title": "Efficient quantum circuits for quantum computational chemistry",
+        "doi": "10.1103/PhysRevA.102.062612",
+        "class": "paper",
+        "note": ""
+    },
+    {
+        "title": "Quantum Chemistry",
+        "doi": "https://books.google.gr/books/about/Quantum_Chemistry.html?hl=nl&id=zzxLTIljQB4C&redir_esc=y",
+        "class": "book",
+        "note": "self included"
+    },
+    {
+        "title": "The Grammar of Teleportation",
+        "doi": "https://doi.org/10.48550/arXiv.quant-ph/0509048",
+        "class": "paper",
+        "note": "Suggested by Ellinas"
+    },
+    {
+        "title": "Parameter estimation with reluctant quantum walks: a maximum likelihood approach",
+        "doi": "10.1088/1402-4896/ad19ff",
+        "class": "paper",
+        "note": "Suggested by Ellinas, especialy the part for maximum likelihood"
+    },
+    {
+        "title": "Quantum random walks - an introductory overview",
+        "doi": "https://doi.org/10.1080/00107151031000110776",
+        "class": "paper",
+        "note": "Suggested by Ellinas"
+    },
+    {
+        "title": "Quantum Walks of SU(2)k Anyons on a Ladder",
+        "doi": "https://doi.org/10.1166/jctn.2013.3102",
+        "class": "paper",
+        "note": "Suggested by Ellinas (not very related with my project on TJCM)"
+    },
+    {
+        "title": "Quantum algebra as the dynamical symmetry of the deformed Jaynes-Cummings model",
+        "doi": "https://doi.org/10.1103/PhysRevLett.65.980",
+        "class": "paper",
+        "note": "Suggested by Ellinas (for my project on JCM)"
+    },
+    {
+        "title": "Phase operators via group contraction",
+        "doi": "https://doi.org/10.1063/1.529136",
+        "class": "paper",
+        "note": "Suggested by Ellinas (for my project on JCM)"
+    },
+    {
+        "title": "Deterministic generation of an on-demand Fock state",
+        "doi": "https://doi.org/10.1364/OE.20.027198",
+        "class": "paper",
+        "note": "Suggested by Ellinas (for my project on JCM)"
+    },
+    {
+        "title": "Quantum Approximate Optimization Algorithms for Molecular Docking",
+        "doi": "https://arxiv.org/pdf/2503.04239",
+        "class": "paper",
+        "note": "Drug discovery"
+    }
+]
