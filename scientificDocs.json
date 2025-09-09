@@ -520,5 +520,17 @@
         "doi": "https://arxiv.org/pdf/2503.04239",
         "class": "paper",
         "note": "Drug discovery"
+    },
+    {
+        "title": "Theoretical and experimental analysis of adaptive quantum computers",
+        "doi": "https://arxiv.org/pdf/2509.06455",
+        "class": "paper",
+        "note": ""
+    },
+    {
+        "title": "Genetic optimization of ansatz expressibility for enhanced variational quantum algorithm performance",
+        "doi": "https://arxiv.org/pdf/2509.05804",
+        "class": "paper",
+        "note": ""
     }
 ]
