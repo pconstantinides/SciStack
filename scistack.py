@@ -42,7 +42,7 @@ import webbrowser
 
 _DATAFRAME = None
 _SUDO_PASSWORD = r"itsme"
-_PATH = os.path.abspath(os.path.expanduser("~/Dev/qtech/SciStack/scientificDocs.json"))
+_PATH = os.path.abspath(os.path.expanduser("~/Dev/SciStack/scientificDocs.json"))
 
 
 def load_data(path):

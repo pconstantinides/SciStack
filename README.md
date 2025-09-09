@@ -8,7 +8,8 @@
 - add tag functionality to group collection of papers per subject (^W `excitation energy VQE`, `ADAPT`)
 - pull changes automaticaly when starting and push when quiting
 - print the entire title in search
-- test search by keywork
+- add author field
+- test search by keyword
 - standardize DOI
 - write unit tests
 
